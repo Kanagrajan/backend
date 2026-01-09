@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "email": "vdineshkumar2390@gmail.com",
+      "password": "admin@Oct1990",
+      "role": "admin"
+    },
+    {
+      "id": "0a23",
+      "name": "kanagarajan",
+      "email": "kanagarajan@riverstonetech.com",
+      "role": "user",
+      "status": "active",
+      "password": "123456"
+    }
+  ],
+  "activities": [
+    {
+      "type": "Walking",
+      "distance": "5",
+      "duration": "60",
+      "date": "2026-01-09",
+      "notes": "",
+      "userId": "0a23",
+      "score": 25,
+      "id": 1
+    }
+  ]
+}
